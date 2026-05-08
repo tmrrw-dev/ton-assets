@@ -337,6 +337,20 @@
   "symbol": "$TDINO"
  },
  {
+  "address": "0:7dac523dd9e6256a40c7ce09fd6d8c21ab019345e8d667eefc403c7901266593",
+  "description": "The official mascot of the TON blockchain",
+  "image": "https://raw.githubusercontent.com/anonbuilder1337/image/main/Tony256x256.png",
+  "name": "Tony McDuck",
+  "social": [
+   "https://t.me/TonyCommunity",
+   "https://x.com/TonyMcDuckOG"
+  ],
+  "symbol": "$TONY",
+  "websites": [
+   "https://tonymcduck.xyz"
+  ]
+ },
+ {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
   "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
   "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
